@@ -58,8 +58,3 @@ A crud based laravel app to learn how to integrate react and other important rea
 
 Show your ❤️ and support by giving a ⭐.
 
-
-## License
-
-<p>MIT Licensed.</p>
-<p>Copyright © <a href="https://arifszn.github.io">MD. Ariful Alam</a> 2021.</p>
